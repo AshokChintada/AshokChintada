@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @AshokChintada
 
 - 👀 I’m interested in **Data Analytics**, **Business Intelligence**, and **Data-Driven Decision Making**
-- 🌱 I’m currently learning **Power BI**, **Advanced SQL**, **Python for Data Analysis**, and **Machine Learning Basics**
+- 🌱 I’m currently learning **Power BI**, **Advanced SQL**, **Python for Data Analysis**
 - 💞️ I’m looking to collaborate on **data analytics projects**, **dashboard development**, and **open-source tools for data visualization**
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/ashok-chintada-62843a31b)  
